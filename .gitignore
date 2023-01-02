@@ -1,0 +1,18 @@
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+lib/**/*.json 
+lib
+.firebaserc
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+
+# 
+# *.env
+# config.json
+# serviceAccountKey.json
+# *.idea.js

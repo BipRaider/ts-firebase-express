@@ -1,0 +1,13 @@
+{
+  "name": "ts-firebase-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init:func":"firebase init functions",
+    "lint": "cd functions && npm run lint",
+    "deploy":"cd functions && npm run deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}
